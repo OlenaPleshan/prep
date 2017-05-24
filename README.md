@@ -31,3 +31,4 @@ Below are also resources that should be helpful while preparing for a coding int
 
 # Git
 * [Basic Commands](https://www.siteground.com/tutorials/git/commands.htm)
+* (Tutorial)[https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3agit%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2]
