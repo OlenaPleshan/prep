@@ -12,6 +12,7 @@ Below are also resources that should be helpful while preparing for a coding int
 * [Linux Network Config](https://www.lynda.com/Linux-tutorials/Linux-Network-Configuration/530434-2.html)
 * [CMD](https://www.lynda.com/Linux-tutorials/Learn-Linux-Command-Line-Basics/435539-2.html)
 * [Bash](https://www.lynda.com/Linux-tutorials/Linux-Bash-Shell-Scripts/504429-2.html?srchtrk=index%3a20%0alinktypeid%3a2%0aq%3alinux+command+line%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+* [Bash with examples](http://matt.might.net/articles/bash-by-example/)
 
 # Golang
 * [Go Web Developement](https://www.lynda.com/Go-tutorials/Go-Web-Development/516402-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3agolang%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2#tab)
